@@ -71,7 +71,7 @@ For rapid prototyping and quick MVPs, I rely on:
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
   ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) 
 - **AI Integrations**:
-- 
+  
   [![TensorFlow](https://skillicons.dev/icons?theme=dark&i=tensorflow)](https://skillicons.dev)
   
   ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) 
